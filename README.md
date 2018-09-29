@@ -79,6 +79,12 @@ https://zeroturnaround.com/rebellabs/git-commands-and-best-practices-cheat-sheet
 https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf <br>
 <br>
 <br>
+### Markdown <br>
+Here is a summary of Markdown codes https://en.wikipedia.org/wiki/Markdown#Example <br>
+If you have half an hour you can easily learn Markdown from here <br>
+http://www.markdowntutorial.com/ <br>
+(if this doesn't work try a different browser)
+
 
 
 
