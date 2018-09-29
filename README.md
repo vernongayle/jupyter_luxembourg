@@ -5,10 +5,9 @@
 
 ### Workshop (October 2018) <br>
 
-### A short workshop led by Professor Vernon Gayle, University of Edinburgh, UK. <br>
+### A short workshop led by Professor Vernon Gayle, University of Edinburgh (UK) <br>
  <br>
-<span style="color:grey">Material developed by Professor Vernon Gayle, University of Edinburgh and Dr Roxanne Connelly, University of York (https://github.com/roxanneconnelly).</span>.
-###   <br>
+<span style="color:grey">Material developed by Professor Vernon Gayle, University of Edinburgh and Dr Roxanne Connelly, University of York (https://github.com/roxanneconnelly).</span>. <br>
 
 ### Rationale: 
 
@@ -22,14 +21,15 @@ The session will concentrate on four inter-related aspects of the workflow – a
 
 
 
-## RESOURCES
+## RESOURCES <br>
 
-### [An Introductory Video on Jypyter Notebooks and Social Research](https://www.youtube.com/watch?v=Os3s1jwLAEI)
+
+### [An Introductory Video on Jypyter Notebooks and Social Research](https://www.youtube.com/watch?v=Os3s1jwLAEI)  <br>
 
 
 ### Getting Started
 
-The Project Jupyter Website [](http://jupyter.org/)
+The Project Jupyter Website [](http://jupyter.org/) <br>
 
 Install Jupyter http://jupyter.org/install.html
 
