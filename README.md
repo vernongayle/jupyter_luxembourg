@@ -69,7 +69,8 @@ A blog post from Fernando Perez's blog http://blog.fperez.org/2013/04/literate-c
 <br>
 <br>
 ### Other links <br>
-Lorena Barba's web page http://lorenabarba.com/
+Lorena Barba's web page http://lorenabarba.com/ <br>
+A gellery of interesting notebooks https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks <br>
 <br>
 <br>
 ### Some Git introductions and cheat sheets  <br>
