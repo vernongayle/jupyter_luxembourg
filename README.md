@@ -39,8 +39,7 @@ The session will concentrate on four inter-related aspects of the workflow – a
 
 ### [An Introductory Video on Jypyter Notebooks and Social Research](https://www.youtube.com/watch?v=Os3s1jwLAEI)  <br>
 
-#### Viewing Jupyter notebooks https://nbviewer.jupyter.org/ <br>
-A simple way to share Jupyter Notebooks
+#### Viewing Jupyter notebooks https://nbviewer.jupyter.org/ A simple way to share Jupyter Notebooks
 
 
 ### Getting Started
