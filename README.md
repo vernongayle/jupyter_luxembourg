@@ -40,7 +40,10 @@ The session will concentrate on four inter-related aspects of the workflow – a
 ### [An Introductory Video on Jypyter Notebooks and Social Research](https://www.youtube.com/watch?v=Os3s1jwLAEI)  <br>
 
 ### nbviewer - A simple way to share Jupyter notebooks https://nbviewer.jupyter.org/ <br>
+<br>
 
+### Link to the git repo for Connelly and Gayle (2017) 
+https://github.com/RoxanneConnelly/Social-Class-Inequalities-in-General-Cognitive-Ability-in-Two-British-Birth-Cohorts
 
 ### Getting Started <br>
 The Project Jupyter Website (http://jupyter.org/) <br>
