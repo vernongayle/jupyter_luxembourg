@@ -29,7 +29,7 @@ The session will concentrate on four inter-related aspects of the workflow – a
 
 ### Getting Started
 
-The Project Jupyter Website [](http://jupyter.org/) <br>
+The Project Jupyter Website [http://jupyter.org/](http://jupyter.org/) <br>
 
 Install Jupyter http://jupyter.org/install.html
 
