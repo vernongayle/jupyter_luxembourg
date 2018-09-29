@@ -39,7 +39,7 @@ The session will concentrate on four inter-related aspects of the workflow – a
 
 ### [An Introductory Video on Jypyter Notebooks and Social Research](https://www.youtube.com/watch?v=Os3s1jwLAEI)  <br>
 
-### nbviewer - A simple way to share Jupyter notebooks https://nbviewer.jupyter.org/ 
+### nbviewer - A simple way to share Jupyter notebooks https://nbviewer.jupyter.org/ <br>
 
 
 ### Getting Started
@@ -50,7 +50,7 @@ Install Jupyter http://jupyter.org/install.html
 
 The Quickstart Guide to https://jupyter.readthedocs.io/en/latest/content-quickstart.html  <br>
  <br>
-
+<br>
 ### The Social Science Workflow
 
 The Workflow of Data Analysis Using Stata http://www.indiana.edu/~jslsoc/web_workflow/wf_home.htm  <br>
@@ -61,18 +61,16 @@ Gayle, V.J. and Lambert, P.S. (2017) The Workflow: A Practical Guide to Producin
 Long, J.S. and Long, J.S., 2009. The workflow of data analysis using Stata. College Station, TX: Stata Press.
 https://www.amazon.co.uk/Workflow-Data-Analysis-Using-Stata/dp/1597180475/ref=sr_1_1?s=books&ie=UTF8&qid=1530726163&sr=1-1&keywords=stata+workflow<br>
 _A fantastic book. This is the 'bible' of good data analysis workflow practices._ <br>
-
+<br>
 ### Literate Computing <br>
 A blog post from Fernando Perez's blog http://blog.fperez.org/2013/04/literate-computing-and-computational.html  <br>
-
+<br>
 ### Other links <br>
 
 Lorena Barba's web page http://lorenabarba.com/
-
 <br>
 
 ### Some Git introductions and cheat sheets  <br>
-
 https://guides.github.com/activities/hello-world/ <br>
 
 https://zeroturnaround.com/rebellabs/git-commands-and-best-practices-cheat-sheet/ <br>
