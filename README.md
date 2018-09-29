@@ -29,17 +29,17 @@ The session will concentrate on four inter-related aspects of the workflow – a
 
 | File Title      | File Type          | Description
 | -------------------------------------|:-------------:|:-------------:|
-| license| .pdf | Day 1 pdf of Powerpoint slides |
-| readme | .pdf | Day 1 pdf of Powerpoint slides |
-| notebook  | .pdf | Day 1 pdf of Powerpoint slides |
-| paper_notebook | .pdf | Gayle and Lambert (2017) |
+| file1| .pdf | Day 1 pdf of Powerpoint slides |
+| file2 | .pdf | Day 1 pdf of Powerpoint slides |
+| file3  | .pdf | Day 1 pdf of Powerpoint slides |
+| file4 | .pdf | Gayle and Lambert (2017) |
 
 <br>
 
 
 ### [An Introductory Video on Jypyter Notebooks and Social Research](https://www.youtube.com/watch?v=Os3s1jwLAEI)  <br>
 
-#### nbviewer - A simple way to share Jupyter notebooks https://nbviewer.jupyter.org/ 
+### nbviewer - A simple way to share Jupyter notebooks https://nbviewer.jupyter.org/ 
 
 
 ### Getting Started
