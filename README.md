@@ -29,10 +29,10 @@ The session will concentrate on four inter-related aspects of the workflow – a
 
 | File Title      | File Type          | Description
 | -------------------------------------|:-------------:|:-------------:|
-| file1| .pdf | Day 1 pdf of Powerpoint slides |
-| file2 | .pdf | Day 1 pdf of Powerpoint slides |
-| file3  | .pdf | Day 1 pdf of Powerpoint slides |
-| file4 | .pdf | Gayle and Lambert (2017) |
+| file1| .pdf | Presentatiion slides |
+| file2 | .pdf | Introduction slides |
+| file3  | .pdf | Jupyter notebook introductory material |
+| file4 | .pdf | Jupyter notebook Connelly and Gayle (2107) |
 
 <br>
 
@@ -62,7 +62,8 @@ Long, J.S. and Long, J.S., 2009. The workflow of data analysis using Stata. Coll
 https://www.amazon.co.uk/Workflow-Data-Analysis-Using-Stata/dp/1597180475/ref=sr_1_1?s=books&ie=UTF8&qid=1530726163&sr=1-1&keywords=stata+workflow<br>
 _A fantastic book. This is the 'bible' of good data analysis workflow practices._ <br>
 
-Literate Computing - a post from Fernando Perez's blog http://blog.fperez.org/2013/04/literate-computing-and-computational.html
+### Literate Computing <br>
+A blog post from Fernando Perez's blog http://blog.fperez.org/2013/04/literate-computing-and-computational.html  <br>
 
 ### Other links <br>
 
