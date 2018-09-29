@@ -21,10 +21,11 @@ The session will concentrate on four inter-related aspects of the workflow – a
 
 
 
-## Files <br>
+## RESOURCES <br>
+
+## Files Available in this Repository <br>
 
 
-Files:
 
 | File Title      | File Type          | Description
 | -------------------------------------|:-------------:|:-------------:|
@@ -33,13 +34,13 @@ Files:
 | notebook  | .pdf | Day 1 pdf of Powerpoint slides |
 | paper_notebook | .pdf | Gayle and Lambert (2017) |
 
-
-
-
-## RESOURCES <br>
+<br>
 
 
 ### [An Introductory Video on Jypyter Notebooks and Social Research](https://www.youtube.com/watch?v=Os3s1jwLAEI)  <br>
+
+#### Viewing Jupyter notebooks https://nbviewer.jupyter.org/ <br>
+A simple way to share Jupyter Notebooks
 
 
 ### Getting Started
