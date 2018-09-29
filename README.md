@@ -8,7 +8,7 @@
 ### A short workshop led by Professor Vernon Gayle, University of Edinburgh, UK. <br>
  <br>
 <span style="color:grey">Material developed by Professor Vernon Gayle, University of Edinburgh and Dr Roxanne Connelly, University of York (https://github.com/roxanneconnelly).</span>.
-   <br>
+###   <br>
 
 ### Rationale: 
 
@@ -21,9 +21,8 @@ The session will concentrate on four inter-related aspects of the workflow – a
 <br>
 
 
-### Old shit
 
-
+## RESOURCES
 
 ### [An Introductory Video on Jypyter Notebooks and Social Research](https://www.youtube.com/watch?v=Os3s1jwLAEI)
 
