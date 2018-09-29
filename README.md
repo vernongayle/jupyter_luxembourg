@@ -8,7 +8,7 @@
 ### A short workshop led by Professor Vernon Gayle, University of Edinburgh, UK. <br>
  <br>
 <span style="color:grey">Material developed by Professor Vernon Gayle, University of Edinburgh and Dr Roxanne Connelly, University of York (https://github.com/roxanneconnelly).</span>.
-###   <br>
+   <br>
 
 ### Rationale: 
 
