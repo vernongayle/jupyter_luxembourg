@@ -29,7 +29,7 @@ The session will concentrate on four inter-related aspects of the workflow – a
 
 | File Title      | File Type          | Description
 | -------------------------------------|:-------------:|:-------------:|
-| file1| .pdf | Presentatiion slides |
+| intro_jupyter_20180929_vg_v2.pdf |.pdf | Getting started with Jupyter |
 | file2 | .pdf | Introduction slides |
 | file3  | .pdf | Jupyter notebook introductory material |
 | file4 | .pdf | Jupyter notebook Connelly and Gayle (2107) |
