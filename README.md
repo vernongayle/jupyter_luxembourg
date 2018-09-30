@@ -30,10 +30,10 @@ The session will concentrate on four inter-related aspects of the workflow – a
 | File Title      | File Type          | Description
 | -------------------------------------|:-------------:|:-------------:|
 | intro_jupyter_20180929_vg_v2.pdf |.pdf | Getting started with Jupyter |
-| file2 | .pdf | Introduction slides |
-| file3  | .pdf | Jupyter notebook introductory material |
-| file4 | .pdf | Jupyter notebook Connelly and Gayle (2107) |
-
+| lux_20180929_vg_v1.ipynb| .ipynb | Jupyter notebook for the workshop |
+| lux_20180929_vg_v1.pdf| .pdf | pdf version of the Jupyter notebook for the workshop |
+| luxembourg_20180928_vg_v1.pdf| .pdf | pdf version of slides from my talk |
+| workshop_oct_slides_20180929_vg_v1.pdf| .pdf | pdf version of slides for the workshop|
 <br>
 
 
