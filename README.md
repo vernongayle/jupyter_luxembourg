@@ -34,6 +34,7 @@ The session will concentrate on four inter-related aspects of the workflow – a
 | lux_20180929_vg_v1.pdf| .pdf | pdf version of the Jupyter notebook for the workshop |
 | luxembourg_20180928_vg_v3.pdf| .pdf | pdf version of slides from my talk |
 | workshop_oct_slides_20180929_vg_v1.pdf| .pdf | pdf version of slides for the workshop|
+| jupyter_install_june_2019_20190618_vg_v3.pdf | .pdf | updated pdf on how to install Jupyter and the Stata and R kernels |
 <br>
 
 
